@@ -13,20 +13,20 @@ Pasos a seguir
 
 
 #### CARGAR LA CAPA DE PAISES DEL MUNDO
-Para cargar la capa de paises del undo a QGIS hay que escribir "World" en las coordenadas de la barra de estado
+Para cargar la capa de paises del undo a QGIS hay que escribir "**World**" en las coordenadas de la barra de estado
 Huevo de Pascua (Easter egg)
 
 ![Para cargar capa de paises del mundo](./imagenes/cargar_capa_paises.png)
 
 #### Configurar el Atlas en la composición
 1. Utilizar la capa de coibertura la propia de paises del undo
-2. Nombre de página = "NAME"
+2. Nombre de página = "**NAME**"
 
 ![Para configurar el panle Atlas](./imagenes/configuracion_atlas.png)
 
 #### Añadir una imagen con la banera de cada pais
 Podremos incorporar una imagen con la bandera de cada pasi de esta página web:
-- flagpedia.net/data/flags/w580/ca.png
+- <span style="color:blue">flagpedia.net/data/flags/w580/ca.png</span>.
 ![ejemplo de bandera de Canadá](flagpedia.net/data/flags/w580/ca.png)
 
 
