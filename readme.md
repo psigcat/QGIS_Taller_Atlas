@@ -27,10 +27,13 @@ Huevo de Pascua (Easter egg)
 #### Añadir una imagen con la banera de cada pais
 Podremos incorporar una imagen con la bandera de cada pasi de esta página web:
 - <span style="color:blue">flagpedia.net/data/flags/w580/ca.png</span>.
-- ![ejemplo de bandera de Canadá](flagpedia.net/data/flags/w580/ca.png)
 
 
 #### simbolizar el pais que se muestra en el atlas con una simbología diferente:
 1. Primero modificar la simbologia en las propiedades de la capa
 2. Utilizar el tipo de simbología" Basado en reglas"
-3. Crear 2 reglas (pe: 
+3. Crear 2 reglas (pe: "NAME" =  @atlas_pagename )
+
+![Para simbolizar basado en reglas](./imagenes/propiedades_simbologia_reglas.png)
+
+
