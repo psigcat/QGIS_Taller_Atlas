@@ -27,6 +27,6 @@ Huevo de Pascua (Easter egg)
 #### Añadir una imagen con la banera de cada pais
 Podremos incorporar una imagen con la bandera de cada pasi de esta página web:
 - <span style="color:blue">flagpedia.net/data/flags/w580/ca.png</span>.
-![ejemplo de bandera de Canadá](flagpedia.net/data/flags/w580/ca.png)
+- ![ejemplo de bandera de Canadá](flagpedia.net/data/flags/w580/ca.png)
 
 
