@@ -30,3 +30,7 @@ Podremos incorporar una imagen con la bandera de cada pasi de esta página web:
 - ![ejemplo de bandera de Canadá](flagpedia.net/data/flags/w580/ca.png)
 
 
+#### simbolizar el pais que se muestra en el atlas con una simbología diferente:
+1. Primero modificar la simbologia en las propiedades de la capa
+2. Utilizar el tipo de simbología" Basado en reglas"
+3. Crear 2 reglas (pe: 
