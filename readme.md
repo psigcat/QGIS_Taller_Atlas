@@ -1,4 +1,4 @@
-# TALLER QGIS ATLAS
+# QGIS --> TALLER ATLAS
 
 # XIX Congreso de TIG - Zaragoza 2022
 
